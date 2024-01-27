@@ -1,2 +1,2 @@
-# glitch-
-SVA_WEEK1
+# glitch project
+SVA_WEEK1 - Crafting interaction project
