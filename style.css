@@ -1,0 +1,12 @@
+body {
+    background: 
+        url('https://cdn.glitch.global/ec133cba-0bca-494f-b67b-ce832db5e733/fruit.png?v=1706383668153') /* Replace with the path to your PNG image */ center/cover no-repeat,
+        linear-gradient(
+            to right,
+            hsla(var(--start), 100%, 75%, 1),
+            hsla(var(--end), 100%, 75%, 1)
+        );
+  background-position: center 50px; 
+}
+
+
